@@ -1,0 +1,1 @@
+C:\Проекты с++\lab 3 tetris\lab 3 tetris\x64\Debug\lab 3 tetris.vcxproj.CopyComplete

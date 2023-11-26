@@ -1,0 +1,5 @@
+﻿  lab 3 tetris.cpp
+C:\Проекты с++\lab 3 tetris\lab 3 tetris\lab 3 tetris.cpp(25,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Проекты с++\lab 3 tetris\lab 3 tetris\lab 3 tetris.cpp(87,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Проекты с++\lab 3 tetris\lab 3 tetris\lab 3 tetris.cpp(88,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab 3 tetris.vcxproj -> C:\Проекты с++\lab 3 tetris\x64\Debug\lab 3 tetris.exe
